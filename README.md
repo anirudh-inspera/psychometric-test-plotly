@@ -3,7 +3,7 @@ POC for using plotly to render and visualize psychometric tests data
 
 Link to Plotly JS Docs - https://plotly.com/javascript/
 
-To run this you can run the following command - 
+To run this make sure you have node js installed and then run the following command - 
 `npx lite-server`
 Press Y if the prompt asks you to install lite-server (this only happens the first time you run the command)
 
