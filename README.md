@@ -4,7 +4,7 @@ POC for using plotly to render and visualize psychometric tests data
 Link to Plotly JS Docs - https://plotly.com/javascript/
 
 To run this you can run the following command - 
-npx lite-server
+`npx lite-server`
 Press Y if the prompt asks you to install lite-server (this only happens the first time you run the command)
 
 This repository contains an implementation of all graph types shown in this [Doc](https://inspera.atlassian.net/wiki/spaces/TESTC/pages/5440241669/Psychometric+dashboard+Phase+2+-+CTT+metrics)
